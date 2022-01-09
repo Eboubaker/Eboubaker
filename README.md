@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eboubaker.B
 - 👀 I’m interested in Web developement
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on Web Developement with Laravel
 - 📫 How to reach me: email me at gpscrmabor.4862500@gmailcom
 

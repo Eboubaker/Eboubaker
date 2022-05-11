@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Eboubaker.B
-- 👀 I’m interested in Web developement
-- 🌱 I’m currently learning Svelte
-- 💞️ I’m looking to collaborate on Web Developement with Laravel
-- 📫 How to reach me: email me at eboubakkar@gmail.com
+![My Stats](https://github-readme-stats.vercel.app/api?username=Eboubaker&show_icons=true&include_all_commits=true&count_private=true)  
+
+I'm a passionate Software developer from Algeria.
+**About me**
+- 💼 FullStack Engineer at Soft-Lines LLC.
+- ❤️ I like building challenging an innovative softwares.
+- 📫 Send me something at eboubakkar@gmail.com
 
 <!---
 ZOLDIK0/ZOLDIK0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

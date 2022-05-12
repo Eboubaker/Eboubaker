@@ -4,7 +4,7 @@ I'm a passionate Software developer from Algeria.
 
 **About me**
 - 💼 FullStack Engineer at Soft-Lines LLC.
-- ❤️ I like building challenging an innovative softwares.
+- ❤️ I like building challenging and innovative softwares.
 - 📫 Send me something at eboubakkar@gmail.com
 
 <!---
